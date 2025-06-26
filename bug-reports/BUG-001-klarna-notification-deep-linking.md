@@ -40,11 +40,12 @@ App should open to a screen with:
 - User is left confused about how to proceed
 
 ## Screenshots
-![Push Notification](images/BUG-001-notification.jpeg)
-*Push notification received*
 
-![Actual Result](images/BUG-001-home-screen.jpeg)
-*App opens to home screen with no Klarna information*
+1. **Push notification received:**
+   ![Push Notification](images/BUG-001-notification.jpeg)
+
+2. **App opens to home screen (incorrect behavior):**
+   ![Actual Result](images/BUG-001-home-screen.jpeg)
 
 ## Impact Assessment
 - **User Experience:** Users cannot complete the advertised action
