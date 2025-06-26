@@ -40,10 +40,10 @@ App should open to a screen with:
 - User is left confused about how to proceed
 
 ## Screenshots
-![Push Notification](images/BUG-001-notification.png)
+![Push Notification](images/BUG-001-notification.jpeg)
 *Push notification received*
 
-![Actual Result](images/BUG-001-home-screen.png)
+![Actual Result](images/BUG-001-home-screen.jpeg)
 *App opens to home screen with no Klarna information*
 
 ## Impact Assessment
