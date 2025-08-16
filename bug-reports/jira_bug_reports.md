@@ -2,7 +2,7 @@
 
 **Project:** Hillel QA sprints  
 **Reporter:** Viktoriia Masanovets  
-**Assignee:** Александр Голубишко  
+**Assignee:** Oleksandr Holubyshko  
 **Priority:** High  
 **Status:** Backlog  
 **Severity:** Major  
@@ -23,9 +23,21 @@ Each time the "Random" button is clicked, new valid integers within the accepted
 **Actual Result:**  
 Occasionally, invalid out-of-range integers appear in the input fields after multiple clicks
 
-**Attachments:**  
-![Screenshot 1](/images/Screenshot_2025-07-30_at_13.44.40.png)
-![Screenshot 2](/images/Screenshot_2025-07-30_at_17.25.33.png)
+**Attachments:** 
+
+<table>
+<tr>
+  <td><img src="images/Screenshot_33.png" alt="Screenshot 33" width="400"/></td>
+  <td><img src="images/Screenshot_40.png" alt="Screenshot 40" width="600"/></td>
+</tr>
+<tr>
+  <td>Screenshot 33</td>
+  <td>Screenshot 40</td>
+</tr>
+</table>
+
+
+
 
 
 
@@ -33,7 +45,7 @@ Occasionally, invalid out-of-range integers appear in the input fields after mul
 
 **Project:** Hillel QA sprints  
 **Reporter:** Viktoriia Masanovets  
-**Assignee:** Александр Голубишко  
+**Assignee:** Oleksandr Holubyshko  
 **Priority:** Normal  
 **Status:** Backlog  
 **Severity:** Minor  
@@ -56,8 +68,16 @@ The value does not change and remains -99
 The bottom field shows -100 after the first click and -101 after the second click
 
 **Attachments:**  
-![Screenshot 1](images/Screenshot_2025-07-30_at_17.35.39.png)  
-![Screenshot 2](images/Screenshot_2025-07-30_at_17.35.52.png)
+<table>
+<tr>
+  <td><img src="images/Screenshot_39.png" alt="Screenshot 39" width="400"/></td>
+  <td><img src="images/Screenshot_52.png" alt="Screenshot 52" width="414"/></td>
+</tr>
+<tr>
+  <td>Screenshot 39</td>
+  <td>Screenshot 52</td>
+</tr>
+</table>
 
 
 
